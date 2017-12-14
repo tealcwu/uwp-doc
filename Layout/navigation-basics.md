@@ -45,8 +45,22 @@
 ![](https://docs.microsoft.com/zh-cn/windows/uwp/design/basics/images/nav/nav-pages.png)
 
 ## 一般性建议
-现在，我们从以上提到的设计原理 - 一致、简单、明确可以得到一些一般性建议。
+现在，我们从以上提到的设计原理 **一致、简单、明确** 可以得到一些一般性建议。
 
 1. 为用户着想。
 2. 避免导航层次过深。
 3. 避免“跳杆”。
+
+## 使用正确的结构
+
+
+```csharp
+private void main()
+{
+	Console.WriteLine();
+}
+```
+
+<a href="">asdf</a>
+
+## 使用正确的控件
