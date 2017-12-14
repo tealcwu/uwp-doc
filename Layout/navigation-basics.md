@@ -17,7 +17,7 @@
 
 没有一个通用的导航设计能适用于任何应用，但有一些原理和指导能帮助你做出正确的设计。
 
-![Navigation diagram]("https://docs.microsoft.com/zh-cn/windows/uwp/design/basics/images/navigation_diagram.png" "Diagram of an app's navigation")
+![Navigation diagram](https://docs.microsoft.com/zh-cn/windows/uwp/design/basics/images/navigation_diagram.png "Diagram of an app's navigation")
 
 ### 正确导航的原理
 
