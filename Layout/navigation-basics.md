@@ -5,9 +5,9 @@
 ## 本文内容
 
 - [正确导航的原理](#正确导航的原理)
-- 一般性建议
-- 使用正确的结构
-- 使用正确的控件
+- [一般性建议](#一般性建议)
+- [使用正确的结构](#使用正确的结构)
+- [使用正确的控件](#使用正确的控件)
 
 ---
 
@@ -19,10 +19,31 @@
 
 ![Navigation diagram](https://docs.microsoft.com/zh-cn/windows/uwp/design/basics/images/navigation_diagram.png "Diagram of an app's navigation")
 
-### 正确导航的原理
+## 正确导航的原理
 
 在开始之前让我们看看好的导航设计是什么样的：
 
 - 一致：符合用户的期望
 - 简单：没有多余的功能
 - 明确：提供清晰的路径和选项
+
+### 一致
+导航应该符合用户的期望。在设计中使用用户熟知的标准控件，并按照标准设计图标、位置和样式，能使用户更直观的使用导航。
+![](https://docs.microsoft.com/zh-cn/windows/uwp/design/basics/images/nav/nav-component-layout.png)
+
+### 简单
+较少的导航选项能使用户更容易做出选择。使用户更容易访问重要内容，并隐藏不太重要的选项，能帮助用户更快地找到他们所需要的。
+![](https://docs.microsoft.com/zh-cn/windows/uwp/design/basics/images/nav/nav-simple-menus.png)
+
+*左边的菜单项比较少，这样用户理解和使用起来更容易*
+
+### 明确
+明确的路径符合用户的逻辑。导航的设置要显眼，页面间的联系要清晰，这样用户才不会被弄糊涂。
+![](https://docs.microsoft.com/zh-cn/windows/uwp/design/basics/images/nav/nav-pages.png)
+
+## 一般性建议
+现在，我们从以上提到的设计原理 - 一致、简单、明确可以得到一些一般性建议。
+
+1. 为用户着想。
+2. 避免导航层次过深。
+3. 避免“跳杆”。
