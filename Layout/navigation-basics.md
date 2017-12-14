@@ -2,7 +2,7 @@
 
 阅读时长：5分钟
 
-##本文内容##
+## 本文内容
 
 - [正确导航的原理](#正确导航的原理)
 - 一般性建议
@@ -19,7 +19,7 @@
 
 ![Navigation diagram]("https://docs.microsoft.com/zh-cn/windows/uwp/design/basics/images/navigation_diagram.png" "Diagram of an app's navigation")
 
-###正确导航的原理###
+### 正确导航的原理
 
 在开始之前让我们看看好的导航设计是什么样的：
 
