@@ -14,7 +14,7 @@
 		- 显示多个视图
 	- 命令基础知识
 	- 内容基础知识
-	- 屏幕大小和断点
+	- [屏幕大小和断点](/Layout/screen-sizes-and-breakpoints-for-responsive-design.md)
 	- 使用XAML定义页面布局
 	- 布局面板
 		- 自定义面板
