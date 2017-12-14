@@ -8,7 +8,7 @@
 
 - [应用UI设计简介]()
 - [布局]()
-  - [导航基础知识](/layout/navigation-basics.md)
+  - [导航基础知识](/Layout/navigation-basics.md)
   - [命令基础知识]()
   - [内容基础知识]()
   - [屏幕大小和断点]()
