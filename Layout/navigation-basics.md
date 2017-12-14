@@ -29,16 +29,19 @@
 
 ### 一致
 导航应该符合用户的期望。在设计中使用用户熟知的标准控件，并按照标准设计图标、位置和样式，能使用户更直观的使用导航。
+
 ![](https://docs.microsoft.com/zh-cn/windows/uwp/design/basics/images/nav/nav-component-layout.png)
 
 ### 简单
 较少的导航选项能使用户更容易做出选择。使用户更容易访问重要内容，并隐藏不太重要的选项，能帮助用户更快地找到他们所需要的。
+
 ![](https://docs.microsoft.com/zh-cn/windows/uwp/design/basics/images/nav/nav-simple-menus.png)
 
 *左边的菜单项比较少，这样用户理解和使用起来更容易*
 
 ### 明确
 明确的路径符合用户的逻辑。导航的设置要显眼，页面间的联系要清晰，这样用户才不会被弄糊涂。
+
 ![](https://docs.microsoft.com/zh-cn/windows/uwp/design/basics/images/nav/nav-pages.png)
 
 ## 一般性建议
